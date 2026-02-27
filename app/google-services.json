@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044670422674",
+    "project_id": "mobileapp-e6df0",
+    "storage_bucket": "mobileapp-e6df0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044670422674:android:912f9ab27154be8034504b",
+        "android_client_info": {
+          "package_name": "com.example.managementpayment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWK7ExaoLgPxN02DBuoPPzY5znxToJlzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044670422674:android:3a102568fd54408934504b",
+        "android_client_info": {
+          "package_name": "com.example.temperature"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWK7ExaoLgPxN02DBuoPPzY5znxToJlzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
