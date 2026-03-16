@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Temperature</string>
+    <string name="default_web_client_id">1:1044670422674:android:3a102568fd54408934504b.apps.googleusercontent.com</string>
 </resources>
